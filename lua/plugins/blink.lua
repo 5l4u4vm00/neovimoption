@@ -3,7 +3,7 @@ return {
   opts = {
     completion = {
       ghost_text = {
-        enabled = false,
+        enabled = vim.g.ai_cmp,
       },
     },
   },
